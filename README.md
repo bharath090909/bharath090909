@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+---
+
 <!--
 **bharath090909/bharath090909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Bharath, a self taught frontend developer currently looking for an opportunity to work with creative developers and designers. Currently I'm pursuing ReactJS Developer.
+
+- 🌎 I'm Based in India.
+- 📤 You can contact me on nallagondlabharath159@gmail.com.
+
+### Skills:
+
+- HTML 
+- CSS  
+- JAVASCRIPT  
+- SASS  
+- GIT  
+- GITHUB 
+
