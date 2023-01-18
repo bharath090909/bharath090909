@@ -23,6 +23,7 @@ My name is Bharath, a self taught frontend developer currently looking for an op
 
 ### Skills:
 
+
 - HTML 
 - CSS  
 - JAVASCRIPT  
