@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Bharath, a self taught frontend developer currently looking for an opportunity to work with creative developers and designers. Currently I'm pursuing ReactJS Developer.
+My name is Bharath, a self taught frontend developer currently looking for an opportunity to work with creative developers and designers. Currently I'm pursuing ReactJS Developer Roadmap.
 
 - 🌎 I'm Based in India.
 - 📤 You can contact me on nallagondlabharath159@gmail.com.
